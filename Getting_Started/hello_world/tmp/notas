@@ -1,0 +1,1 @@
+não da pra usar println() para printar, tem que ser println!() mesmo. Sem exclamação é uma função com exclamação é um macro.
