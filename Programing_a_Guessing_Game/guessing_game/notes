@@ -1,0 +1,2 @@
+Cargo.lock file works as a locker for compiling the main.rs with always an especific version of crates especified in cargo.toml file under [dependencies] section. This feature ensures the script will always be built with the same crates versions it was designed when developed.
+Cargo changes a crate version only when "cargo update" is done. But also a crate can be manually changed by editing Cargo.toml file.
